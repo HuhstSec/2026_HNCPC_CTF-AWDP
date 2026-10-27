@@ -2,16 +2,16 @@
 
 2026年湖南省大学生程序设计竞赛-网络攻防赛道的赛题及复现环境归档
 
-## 🧭 题目索引
+# 题目索引
 
 | 方向 | 题目 | 数量 |
 | :--- | :--- | :---: |
 | Misc | [童话故事](#童话故事) · [免费中转站](#免费中转站) | 2 |
 | Web | [java upload](#java-upload) · [json](#json) | 2 |
-| AWDP · Web | [funadmin](#funadmin) | 1 |
+| AWDP-Web | [funadmin](#funadmin) | 1 |
 | Reverse | [NightGlass](#nightglass) | 1 |
 | Pwn | [PatchNote](#patchnote) | 1 |
-| AWDP · Pwn | [Clock](#clock) | 1 |
+| AWDP-Pwn | [Clock](#clock) | 1 |
 | Crypto | [MAYO](#mayo) | 1 |
 | **合计** | | **9** |
 
