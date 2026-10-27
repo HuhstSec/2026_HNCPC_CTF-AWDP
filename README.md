@@ -43,7 +43,7 @@ FunAdmin基于thinkphp8.X+Layui2.11+requirejs开发权限(RBAC)管理框架。�
   
 ## Reverse
 ### NightGlass
-123123
+星港应急响应组截获了一份名为NightGlass的可疑模块，以及一份附属数据。样本只保留了一个交互入口，不会自行处理任何文件。请结合附件分析这个入口的进入条件，并最终还原flag.txt.ngv。flag格式为dart{xxx}，请提交完整的dart{}内容
   
 ## Pwn
 ### PatchNote
